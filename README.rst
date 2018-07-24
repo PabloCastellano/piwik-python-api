@@ -8,5 +8,5 @@ The Piwik Python API SDK is a Python implementation of the Piwik tracking and an
 This refactor branch is an on-going refactor of the original project.
 As of now, the tests/build do not pass, and the documentation is out of date.
 
-.. image:: https://api.travis-ci.org/piwik/piwik-python-api.png
-  :target: https://travis-ci.org/piwik/piwik-python-api
+.. image:: https://api.travis-ci.org/matomo-org/piwik-python-api.png
+  :target: https://travis-ci.org/matomo-org/piwik-python-api
